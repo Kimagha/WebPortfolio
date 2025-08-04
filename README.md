@@ -36,7 +36,7 @@
 ## 3️⃣ KGM-Mobility
 > - 웹 개발 두번째 프로젝트
 >   
-> - 2025.04 ~ 2025.05
+> - 2025.05 ~ 2025.05
 >
 > - Frontend/Backend : JSP, Servlet, Java, JavaScript
 > - Database : MySQL
