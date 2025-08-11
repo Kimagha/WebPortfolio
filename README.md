@@ -6,11 +6,11 @@
 
 > |   구분                 |  Skill  |
 > | :--------------------: | :--------: |
-> |   Programing Languages |    Java, JavaScript, C/C++, SQL, Python, R    |
-> |   Framework & Library  |    Spring, Spring boot, React, React Native, Lombok, Expo    |
-> |          Server        |   Supabase, Node.js, MySQL, MariaDB, AWS, HeidiSQL    |
+> |   Programing Languages |                         Java, JavaScript, C/C++, SQL, Python, R                          |
+> |   Framework & Library  |                   Spring, Spring boot, React, React Native, Lombok, Expo                 |
+> |          Server        |                       Supabase, Node.js, MySQL, MariaDB, AWS, HeidiSQL                   |
 > |    Tooling & DevOps    |    Git, Visual Studio Code, Postman, Android Studio, Jupyter Notebook, Anaconda, Figma   |
-> |       Environment      |    Windows 10, Linux (Ubuntu), Android/ iOS   |
+> |       Environment      |                         Windows 10, Linux (Ubuntu), Android/ iOS                         |
 
 </br>
 
