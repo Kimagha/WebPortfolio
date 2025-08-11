@@ -32,7 +32,7 @@
 > - Database : Supabase, PostgreSQL
 > - API : Google Maps, Open Route Service
 >   
->> [프로젝트(PassengerTogether)](https://github.com/Macaping/PassengerTogether)
+>> [프로젝트(PassengerTogether)](https://github.com/Macaping/PassengerTogether) </br>
 >> [프로젝트 소개](https://github.com/Kimagha/PassengerTogether_README)
 
 ## 3️⃣ KGM-Mobility
