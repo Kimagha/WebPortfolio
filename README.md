@@ -37,39 +37,20 @@
 
 
 ## 2️⃣ PassengerTogether
-> - 콜벤 매칭 어플리케이션
->   
-> - 2024.09 ~ 2024.12
->
-> - Frontend : Expo, React Native (JS, TS, TSX, JSX)
-> - Backend : Node.js, Express
-> - Infra : ORACLE CLOUD, Nginx, Docker
-> - Database : Supabase, PostgreSQL
-> - API : Google Maps, Open Route Service
->   
->> [프로젝트(PassengerTogether)](https://github.com/Macaping/PassengerTogether) </br>
->> [프로젝트 소개](https://github.com/Kimagha/PassengerTogether_README)
-</br>
+- **기간**: 2024.09 ~ 2024.12  
+- **기술**: Expo, React Native, Node.js, Express, Supabase, PostgreSQL  
+- **API**: Google Maps, OpenRouteService  
+- **성과**: 부트캠프 팀 프로젝트로 콜벤 매칭 앱 구현  
+- **[🔗 GitHub](https://github.com/Macaping/PassengerTogether)**  
+- **[📄 소개 문서](https://github.com/Kimagha/PassengerTogether_README)**  
+- **[🎥 시연 영상](https://youtube.com/shorts/n2gDlkTz28o?si=YzufDjJ9V6BhUiCk)**  
+
+---
 
 ## 3️⃣ KGM-Mobility
-> - 웹 개발 두번째 프로젝트
->   
-> - 2025.05 ~ 2025.05
->
-> - Frontend/Backend : JSP, Servlet, Java, JavaScript
-> - Database : MySQL
-> - IDE/환경 : Eclipse, WAR 파일 배포 방식
->   
-> - 1년전 JAVA를 처음 접한 BookMarket 프로젝트 코드에서 부족한 부분을 고치고 프론트와 백엔드를 더 업그레이드 시킴
->   
->> [프로젝트(KGM-Mobility)](https://github.com/Kimagha/KGM-Mobility)
-</br>
-
-# 🔗 YouTube
-
-> <b><em><a href="https://youtu.be/1FjqL-76seA?si=P_djGNxOO_VVuoq1">BookMarket 프로젝트 영상</a></em></b><br />
-
-> <b><em><a href="https://youtube.com/shorts/n2gDlkTz28o?si=YzufDjJ9V6BhUiCk">PassengerTogether 어플 시연 영상</a></em></b><br />
-
-> <b><em><a href="https://youtu.be/MeYfV2ZFSXM?si=2e8rzlgnC8t1nSUo">KGM-Mobility 프로젝트 영상</a></em></b><br />
+- **기간**: 2025.05  
+- **기술**: JSP, Servlet, Java, JavaScript, MySQL  
+- **성과**: BookMarket를 기능·UI 개선한 업그레이드 버전  
+- **[🔗 GitHub](https://github.com/Kimagha/KGM-Mobility)**  
+- **[🎥 시연 영상](https://youtu.be/MeYfV2ZFSXM?si=2e8rzlgnC8t1nSUo)** 
 
