@@ -30,7 +30,7 @@
 - **성과**: Java 첫 학습 프로젝트, WAR 파일 배포 경험  
 - **[🔗 GitHub](https://github.com/Kimagha/BookMarket)**  
 - **[🎥 시연 영상](https://youtu.be/1FjqL-76seA?si=P_djGNxOO_VVuoq1)**  
-</br>
+
 
 ---
 
