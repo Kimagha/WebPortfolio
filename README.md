@@ -18,13 +18,13 @@ Java와 SQL을 시작으로 Spring, React, React Native 등 다양한 기술을 
 # 📄 기술 스택
 <br/>
 
-> |   구분                 |  Skill  |
-> | :--------------------: | :--------: |
-> |   Programing Languages |                         Java, JavaScript, C/C++, SQL, Python, R                          |
-> |   Framework & Library  |                   Spring, Spring boot, React, React Native, Lombok, Expo                 |
-> |          Server        |                       Supabase, Node.js, MySQL, MariaDB, AWS, HeidiSQL                   |
-> |    Tooling & DevOps    |    Git, VS Code, Postman, Android Studio, Jupyter Notebook, Anaconda, Figma   |
-> |       Environment      |                         Windows 10, Ubuntu, Android / iOS                         |
+ |   구분                 |  Skill  |
+ | :--------------------: | :--------: |
+ |   Programing Languages |                         Java, JavaScript, C/C++, SQL, Python, R                          |
+ |   Framework & Library  |                   Spring, Spring boot, React, React Native, Lombok, Expo                 |
+ |          Server        |                       Supabase, Node.js, MySQL, MariaDB, AWS, HeidiSQL                   |
+ |    Tooling & DevOps    |    Git, VS Code, Postman, Android Studio, Jupyter Notebook, Anaconda, Figma   |
+ |       Environment      |                         Windows 10, Ubuntu, Android / iOS                         |
 
 </br>
 
