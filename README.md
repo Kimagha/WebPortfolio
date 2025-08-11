@@ -4,13 +4,13 @@
 
 # 📄 기술 스택
 
-> |   구분   |  Skill  |
-> | :------: | :--------: |
-> |  Programing Languages  |    Back    |
-> |  Framework & Library  |    Back    |
-> |  Server  |    Front   |
-> |  Tooling & DevOps  |    Back    |
-> |  Environment  |    Front   |
+> |   구분                 |  Skill  |
+> | :--------------------: | :--------: |
+> |   Programing Languages |    Java, JavaScript, C/C++, SQL, Python, R    |
+> |   Framework & Library  |    Back    |
+> |          Server        |   Front    |
+> |    Tooling & DevOps    |    Back    |
+> |       Environment      |    Front   |
 
 </br>
 
