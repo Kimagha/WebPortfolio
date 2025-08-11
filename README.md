@@ -25,17 +25,14 @@
 </br>
 
 ## 1️⃣ BookMarket 
-> - 웹 개발 첫번째 프로젝트
->   
-> - 개발 기간 : 2024.03 ~ 2024.06
->
-> - Frontend/Backend : JSP, Servlet, Java, JavaScript
-> - Database : MySQL
-> - IDE/환경 : Eclipse, WAR 파일 배포 방식
-> 
-> - JAVA를 처음 접해보면서 만든 프로젝트로 미숙한 부분이 많지만 WAR 파일로 서버에 직접 배포까지 해보면서 웹 사이트 프론트 및 백엔드 개발 경험
->   
->> [프로젝트(BookMarket)](https://github.com/Kimagha/BookMarket)
+- **기간**: 2024.03 ~ 2024.06  
+- **기술**: JSP, Servlet, Java, JavaScript, MySQL  
+- **성과**: Java 첫 학습 프로젝트, WAR 파일 배포 경험  
+- **[🔗 GitHub](https://github.com/Kimagha/BookMarket)**  
+- **[🎥 시연 영상](https://youtu.be/1FjqL-76seA?si=P_djGNxOO_VVuoq1)**  
+
+---
+
 </br>
 
 ## 2️⃣ PassengerTogether
