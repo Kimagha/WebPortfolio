@@ -45,3 +45,23 @@
 > - 1년전 JAVA를 처음 접한 BookMarket 프로젝트 코드에서 부족한 부분을 고치고 프론트와 백엔드를 더 업그레이드 시킴
 >   
 >> [프로젝트(KGM-Mobility)](https://github.com/Kimagha/KGM-Mobility)
+
+# 🔗 YouTube
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="[https://youtu.be/BYKYpyyJfKU](https://www.youtube.com/watch?v=1FjqL-76seA)" title="BookMarket 프로젝트 영상"
+        </a>
+      </td>
+      <td>
+        <a href="[https://youtu.be/HR1b2hrxvbY](https://www.youtube.com/shorts/n2gDlkTz28o)" title="PassengerTogether 어플 시연 영상">
+        </a>
+      </td>
+      <td>
+        <a href="[https://youtu.be/nXTzsSGfIbg](https://www.youtube.com/watch?v=MeYfV2ZFSXM)" title="KGM-Mobility 프로젝트 영상">
+          </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
