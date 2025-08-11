@@ -26,12 +26,13 @@ Java와 SQL을 시작으로 Spring, React, React Native 등 다양한 기술을 
  |    Tooling & DevOps    |    Git, VS Code, Postman, Android Studio, Jupyter Notebook, Anaconda, Figma   |
  |       Environment      |                         Windows 10, Ubuntu, Android / iOS                         |
 
-</br>
+
+<br/>
 
 ---
 
 # 📑 Projects
-
+<br/>
 
 ## 1️⃣ BookMarket 
 - **기간**: 2024.03 ~ 2024.06  
@@ -40,6 +41,7 @@ Java와 SQL을 시작으로 Spring, React, React Native 등 다양한 기술을 
 - **[🔗 GitHub](https://github.com/Kimagha/BookMarket)**  
 - **[🎥 시연 영상](https://youtu.be/1FjqL-76seA?si=P_djGNxOO_VVuoq1)**  
 
+<br/><br/>
 
 ---
 
@@ -53,6 +55,8 @@ Java와 SQL을 시작으로 Spring, React, React Native 등 다양한 기술을 
 - **[🔗 GitHub](https://github.com/Macaping/PassengerTogether)**  
 - **[📄 소개 문서](https://github.com/Kimagha/PassengerTogether_README)**  
 - **[🎥 시연 영상](https://youtube.com/shorts/n2gDlkTz28o?si=YzufDjJ9V6BhUiCk)**  
+
+<br/><br/>
 
 ---
 
