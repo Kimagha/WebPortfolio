@@ -10,10 +10,11 @@
 > |   Programing Languages |                         Java, JavaScript, C/C++, SQL, Python, R                          |
 > |   Framework & Library  |                   Spring, Spring boot, React, React Native, Lombok, Expo                 |
 > |          Server        |                       Supabase, Node.js, MySQL, MariaDB, AWS, HeidiSQL                   |
-> |    Tooling & DevOps    |    Git, Visual Studio Code, Postman, Android Studio, Jupyter Notebook, Anaconda, Figma   |
-> |       Environment      |                         Windows 10, Linux (Ubuntu), Android/ iOS                         |
+> |    Tooling & DevOps    |    Git, VS Code, Postman, Android Studio, Jupyter Notebook, Anaconda, Figma   |
+> |       Environment      |                         Windows 10, Ubuntu, Android / iOS                         |
 
 </br>
+---
 
 # 📑 Projects
 웹 및 앱 개발 프로젝트 입니다. </br>
