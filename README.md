@@ -2,6 +2,18 @@
 > 웹 개발 프로젝트 포트폴리오 </br>
 </br>
 
+# 📄 기술 스택
+
+> |   구분   |  Skill  |
+> | :------: | :--------: |
+> |  Programing Languages  |    Back    |
+> |  Framework & Library  |    Back    |
+> |  Server  |    Front   |
+> |  Tooling & DevOps  |    Back    |
+> |  Environment  |    Front   |
+
+</br>
+
 # 📑 Projects
 웹 및 앱 개발 프로젝트 입니다. </br>
 24년도에 3월에 웹 개발 실습 수업을 들으면서 Java와 SQL을 처음 접하게 되었고, 
